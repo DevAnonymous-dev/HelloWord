@@ -4,6 +4,6 @@ Somme S =new Somme();
 Helloword hello=new Helloword();
 hello.affichage()
 hello.affichage();
-System.out.println("la somme egale a "+S.somme(2,3);
+System.out.println("la somme egale a "+S.somme(D,3);
 }
 }
